@@ -1,7 +1,7 @@
 {
-  "name": "atlas",
-  "version": "3.1.0",
-  "description": "The future of WhatsApp bots now with plugin support.",
+  "name": "blaze",
+  "version": "1.0.0",
+  "description": "One piece themed full fledged multi device whatsapp bot with cool features.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FantoX001/Atlas-MD.git"
+    "url": "git+https://github.com/Hridoy0016/Blaze.git"
   },
   "keywords": [
     "bot",
@@ -19,26 +19,26 @@
     "baileys bot",
     "md bot"
   ],
-  "author": "FantoX001",
+  "author": "Hridoy0016 && RA-ONE",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FantoX001/Atlas-MD/issues"
+    "url": "https://github.com/Hridoy0016/Blaze/issues"
   },
-  "homepage": "https://github.com/FantoX001/Atlas-MD#readme",
+  "homepage": "https://github.com/Hridoy0016/Blaze#readme",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@fantox01/lyrics-scraper": "^1.0.1",
     "@hapi/boom": "^10.0.1",
     "@napi-rs/canvas": "^0.1.41",
     "@whiskeysockets/baileys": "^6.2.1",
-    "axios": "^1.2.2",
+    "axios": "^1.4.0",
     "canvacord": "^5.2.3",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
     "child_process": "^1.0.2",
     "discord-xp": "^1.1.16",
     "discord.js": "^14.8.0",
-    "dotenv": "^16.1.4",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "figlet": "^1.5.2",
     "file-type": "^16.5.4",
