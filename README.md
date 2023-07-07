@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center"> 
-Konnichiwa Senpai, I am "Blaze" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Blaze" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am "Blaze" an Opensource WhatsApp bot made by <a href="https://github.com/Hridoy0016">Hridoy</a> and his team "Blaze" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
 <h3 align="center"> Blaze MD - One Piece Themed Group Management Bot
 </h4>
@@ -44,7 +44,7 @@ Konnichiwa Senpai, I am "Blaze" an Opensource WhatsApp bot made by <a href="http
 ---
  <br>
  
- # 🧩 Deploy Atlas
+ # 🧩 Deploy Blaze 
      
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
@@ -55,7 +55,7 @@ Konnichiwa Senpai, I am "Blaze" an Opensource WhatsApp bot made by <a href="http
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/FantoX001/Atlas-MD">
+    <a href="https://repl.it/github/Hridoy0016/Blaze">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
@@ -235,7 +235,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 ## ⚛️ Heroku Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/Hridoy0016/Blaze/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
 - Then put these values in environment variables accordint to instructions (Mandatory).
@@ -293,7 +293,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
       
 ## ❇️ Koyeb Deploy:   
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/Hridoy0016/Blaze/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version `I'm sorry to say as Koyeb works through Quay.io hosted docker so you can't deploy your modified version in fully 100% working state.` Though you can deploy manually your Github repo in Koyeb but in that case bot's 100% commands will not work.
 - Those who are deploying through button: Put all necessary details there according to instructions given there (Don't forget to change MongoDB URL an put your URL).
@@ -303,7 +303,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`9181XXXXXXXX`,`9258XXXXXXXX`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -322,7 +322,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
   
 ## 🪟 CMD / VS Code / Powershell / Terminal Deployment Method 
 
-- [Download Updated code](https://github.com/FantoX001/Atlas-MD/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
+- [Download Updated code](https://github.com/Hridoy0016/Blaze/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
 - Extract the `.zip` and open Vs code / Cmd / Powershell / Terminal in that directory and give thesse following commands one-by-one:
 - Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
 
@@ -370,10 +370,10 @@ sudo apt install wget
 sudo apt install npm
 sudo apt install imagemagick
 
-git clone https://github.com/FantoX001/Atlas-MD
+git clone https://github.com/Hridoy0016/Blaze
 
 ls
-cd Atlas-MD
+cd Blaze
 npm i
 
 
@@ -388,12 +388,12 @@ curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 
 sudo apt-get install -y nodejs
 yarn add sharp
-cd Atlas-MD
+cd Blaze
 npm i
 npm start
 
 ``` 
-- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/FantoX001/Atlas-MD/fork) this repo and modified `.env` file and `config.js`).
+- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/Hridoy0016/Blaze/fork) this repo and modified `.env` file and `config.js`).
 - This method will work on most other bots too.
 
 #### 📌 To stop a bot in Userland
@@ -413,7 +413,7 @@ npm start
 - Then open `UserLand` and run these commands one-by-one:
 
 ```
-cd Atlas-MD
+cd Blaze
 git fetch origin
 git merge origin/main
 npm start
@@ -522,7 +522,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 <br>
     
 
-# ⚡️ Atlas Platform Compatibility:
+# ⚡️ Blaze Platform Compatibility:
 <br>
 
 - Atlas offers highest platform compatibility.
@@ -531,7 +531,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
       
 <br>
       
-# 💫 Dependencies of Atlas:
+# 💫 Dependencies of Blaze:
 
 <br>
 
@@ -550,8 +550,8 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
       
 <br>
 
-- Read [PublicKeys.md](https://github.com/FantoX001/Atlas-MD/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
-- Changeable between `20 added Characters` ( Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
+- Read [PublicKeys.md](https://github.com/Hridoy0016/Blaze/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
+- Changeable between `20 added Characters` ( Luffy, Zoro, Nami, Ussop, Sanji, Chopper, Nico Robin, Franky, Law, Ace, Gol D. Roger,etc ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
 - Fully powered by MongoDb ( 3 databases added ).
 - Self / Public / Private mode.
 - Single prefix ( "-" ).
@@ -567,7 +567,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 <br>
      
 
-# 〽️ Why Should You Use Atlas as your Base:
+# 〽️ Why Should You Use Blaze as your Base:
 
       
 <details close>
@@ -575,18 +575,18 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 
 <br>
 
-- Atlas is a `fully open source` bot which means `no copyright`.
-- Atlas is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
-- Atlas is a `multi database bot` which means you can use 3 different databases at the same time.
-- Atlas is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-- Atlas has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
-- Atlas has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
-- Atlas has 300+ commands.
-- Atlas doesn't store your `Session File` locally which means it's `safe` and `secure`.
-- Atlas has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
-- Atlas has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
-- Atlas is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
-- Atlas comes with [MIT](https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
+- Blaze is a `fully open source` bot which means `no copyright`.
+- Blaze is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
+- Blaze is a `multi database bot` which means you can use 3 different databases at the same time.
+- Blaze is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
+- Blaze has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
+- Blaze has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
+- Blaze has 300+ commands.
+- Blaze doesn't store your `Session File` locally which means it's `safe` and `secure`.
+- Blaze has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
+- Blaze has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
+- Blaze is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
+- Blaze comes with [MIT](https://github.com/Hridoy0016/Blaze/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
 
 </details> 
     
@@ -596,7 +596,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 
 # 🧣 Contributors:
 
-- Check [Atlas Contributors](https://github.com/FantoX001/Atlas-MD/graphs/contributors) list.
+- Check [Blaze Contributors](https://github.com/Hridoy0016/Blaze/graphs/contributors) list.
 - Feel free to contribute in this project it increase it's stability and update. I will merge your respected contribution after reviewing it.
 - No personal modification / re-branding ( Changing bot name, owner name ) pull requests will be merged !
     
@@ -623,10 +623,10 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 ---
 <br>
 
-<h2 align="center">🔰 Meet Team Atlas 🔰
+<h2 align="center">🔰 Meet Team Blaze 🔰
 </h2>
 
-[![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
+[![Hridoy](https://github.com/Hridoy0016.png)](https://github.com/Hridoy0016)  | [![Miow](https://github.com/7thRA-ONE.png)](https://github.com/7thRA-ONE) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
 ----|----|----|----|----|----
 [FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
-Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer | API Maintainer | Ideas, Testing | Ideas, Testing
+Owner, Main Developer, Maintainer  | Co-Developer, Co-Maintainer | Support Developer, Ideas, Testing | Ideas, Testing
