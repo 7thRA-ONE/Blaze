@@ -623,10 +623,12 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 ---
 <br>
 
-<h2 align="center">🔰 Meet Team Blaze 🔰
-</h2>
-
-[![Hridoy](https://github.com/Hridoy0016.png)](https://github.com/Hridoy0016)  | [![Miow](https://github.com/7thRA-ONE.png)](https://github.com/7thRA-ONE) | [![Rishi](https://github.com/Rl1ys.png)](https://github.com/Rl1ys) |
-----|----|----|----|----|----
-[Hridoy](https://github.com/Hridoy0016)  | [Miow](https://github.com/7thRA-ONE) | [Pratyush](https://github.com/Rl1ys) |
-Owner, Main Developer, Maintainer  | Co-Developer, Co-Maintainer | Support Developer, Ideas, Testing |
+# Thanks To
+<a href="https://github.com/Hridoy0016"><img src="https://github.com/Hridoy0016.png?size=100" width="100" height="100"></a> | [![Miow ツ](https://github.com/7thRA-ONE.png?size=100)](https://github.com/7thRA-ONE)
+-|-
+[Hridoy](https://github.com/Hridoy0016)  | [Miow ツ](https://github.com/7thRA-ONE)
+Owner of Blaze | Ideas, Testing, Co-developer|
+<a href="https://github.com/Rl1ys"><img src="https://github.com/Rl1ys.png?size=100" width="100" height="100">
+-|-
+[Rishi](https://github.com/Rl1ys)
+Useless worker |
