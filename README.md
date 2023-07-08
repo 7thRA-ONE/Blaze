@@ -15,25 +15,25 @@ Konnichiwa Senpai, I am "Blaze" an Opensource WhatsApp bot made by <a href="http
 <br>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Atlas-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Atlas-MD?label=Fork&style=social">
+  <a href="https://github.com/Hridoy0016/Blaze/fork">
+    <img src="https://img.shields.io/github/forks/Hridoy0016/Blazs?label=Fork&style=social">
     
     
   <a href="https://github.com/FantoX001/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Atlas-MD?style=social">
+    <img src="https://img.shields.io/github/stars/Hridoy0016/Blaze?style=social">
   </a>
 <p align="center">
-<a href="https://github.com/FantoX001/Atlas-MD"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFantoX001%2FAtlas-MD&count_bg=%23FFA305&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=People+Visited&edge_flat=false)](https://hits.seeyoufarm.com" width="150px" /></a>
+<a href="https://github.com/Hridoy0016/Blaze"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFantoX001%2FAtlas-MD&count_bg=%23FFA305&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=People+Visited&edge_flat=false)](https://hits.seeyoufarm.com" width="150px" /></a>
 </p>
 
 
   
 <p align="center">
-<a href="https://github.com/FantoX001"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Atlas-white.svg?style=for-the-badge&logo=github" width="170px"></a>
+<a href="https://github.com/Hridoy0016"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Atlas-white.svg?style=for-the-badge&logo=github" width="170px"></a>
 
- <a href="https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md">
+ <a href="https://github.com/Hridoy0016/Blaze/blob/main/LICENSE.md">
   
-<img src='https://img.shields.io/github/license/FantoX001/Atlas-MD?color=%231e81b0&style=for-the-badge' width="114px">
+<img src='https://img.shields.io/github/license/Hridoy0016/Blaze?color=%231e81b0&style=for-the-badge' width="114px">
 
 <p align="center">
 <a href="https://github.com/FantoX001"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
@@ -95,7 +95,7 @@ Konnichiwa Senpai, I am "Blaze" an Opensource WhatsApp bot made by <a href="http
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/fantox001/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
+    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/hridoy0016/blaze:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=917820953034,919394181455&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=Hridoy&&name=blaze">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
@@ -197,23 +197,23 @@ Konnichiwa Senpai, I am "Blaze" an Opensource WhatsApp bot made by <a href="http
 
     
     
-# 📑 Atlas Deploy and Hosting guide
+# 📑 Blaze Deploy and Hosting guide
 
 <details close>
 <summary>Click to read Deploy Manual</summary>    
     
 ## 🔶 Repl.it Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/Hridoy0016/Blaze/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>`.
+- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Hridoy0016/Blaze` to your fork URL `https://github.com/<Your GitHub Username>/<Your Blaze fork repo name>`.
 - After cloning is done in Repl.it go to `Secrets` in your Repl.it project and put these values (Mandatory).
   
 <br>
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`9181XXXXXXXX`,`9194XXXXXXXX`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -237,14 +237,14 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 - [Fork Main Repo](https://github.com/Hridoy0016/Blaze/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
+- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Hridoy0016/Blaze` to your fork URL `https://github.com/<Your GitHub Username>/<Your Blaze fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
 - Then put these values in environment variables accordint to instructions (Mandatory).
   
 <br>
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`9181XXXXXXXX`,`9194XXXXXXXX`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -264,7 +264,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
     
       
 ## 🔷 Railway Deploy:   
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/Hridoy0016/Blaze/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version in Railway then that button will not help you. Go to Railway website and deploy github repo from there manually.
 - Those who are deploying through button: Put all necessary details there according to instructions given there.
@@ -274,7 +274,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`9181XXXXXXXX`,`9194XXXXXXXXXX`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -399,7 +399,7 @@ npm start
 #### 📌 To stop a bot in Userland
 - Tap on `CTRL` button then tap on `C` from keyboard
 
-#### 📌 To start bot again ( While you are inside Atlas-MD folder {use `cd Atlas-MD` to get inside the folder} )
+#### 📌 To start bot again ( While you are inside Blaze folder {use `cd Blaze` to get inside the folder} )
 - `npm start` or use `yarn start` to start bot again.
 
 
@@ -525,7 +525,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 # ⚡️ Blaze Platform Compatibility:
 <br>
 
-- Atlas offers highest platform compatibility.
+- Blaze offers highest platform compatibility.
 - Just deploy and use on your favourite platform.
 - Sorted by Recommendation: Repl.it, Railway, Heroku, Koyeb
       
@@ -536,7 +536,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 <br>
 
 - [WhiskeySockets Baileys V-6.1.0](https://github.com/WhiskeySockets/Baileys)
-- [Scrappy API (For Instagram, Facebook, Lyrics and ❌videos scraping )](https://github.com/FantoX001/Scrappy-API)
+- [Scrappy API (For Instagram, Facebook, Lyrics and ❌videos scraping )](https://github.com/Hridoy0016/Scrappy-API)
 - [FantoX APIs ( For NSFW )](https://fantox-api.vercel.app/)
 
 <br>
@@ -626,7 +626,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 <h2 align="center">🔰 Meet Team Blaze 🔰
 </h2>
 
-[![Hridoy](https://github.com/Hridoy0016.png)](https://github.com/Hridoy0016)  | [![Miow](https://github.com/7thRA-ONE.png)](https://github.com/7thRA-ONE) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
+[![Hridoy](https://github.com/Hridoy0016.png)](https://github.com/Hridoy0016)  | [![Miow](https://github.com/7thRA-ONE.png)](https://github.com/7thRA-ONE) | [![Rishi](https://github.com/Rl1ys.png)](https://github.com/Rl1ys) |
 ----|----|----|----|----|----
-[FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
-Owner, Main Developer, Maintainer  | Co-Developer, Co-Maintainer | Support Developer, Ideas, Testing | Ideas, Testing
+[Hridoy](https://github.com/Hridoy0016)  | [Miow](https://github.com/7thRA-ONE) | [Pratyush](https://github.com/Rl1ys) |
+Owner, Main Developer, Maintainer  | Co-Developer, Co-Maintainer | Support Developer, Ideas, Testing |
