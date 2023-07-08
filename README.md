@@ -628,7 +628,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 -|-
 [Hridoy](https://github.com/Hridoy0016)  | [Miow ツ](https://github.com/7thRA-ONE)
 Owner of Blaze | Ideas, Testing, Co-developer|
-<a href="https://github.com/Rl1ys"><img src="https://github.com/Rl1ys.png?size=100" width="100" height="100">
+<a href="https://github.com/Riqo-o"><img src="https://github.com/Riqo-o.png?size=100" width="100" height="100">
 -|-
 [Rishi](https://github.com/Rl1ys)
 Ideas, Testing, Learner |
