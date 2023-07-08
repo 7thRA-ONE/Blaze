@@ -10,11 +10,11 @@
 /      d88P     888  "Y888 888 "Y888888  88888P'      888       888 8888888P"       /
 /                                                                                   / 
 /-----------------------------------------------------------------------------------/
-/ Author and Main Developer: FantoX                                                 /
-/ Github: https://github.com/FantoX001/Atlas-MD                                     /
-/ Powered By: Team ATLAS                                                            /
+/ Author and Main Developer: Hridoy                                                 /
+/ Github: https://github.com/Hridoy0016/Blaze                                     /
+/ Powered By: Team BLAZE                                                            /
 /-----------------------------------------------------------------------------------/
-/             Meet Team ATLAS who holds all rights to this repository:              /
+/             Meet Team Blaze who holds all rights to this repository:              /
 /                                                                                   /
 / 1. Pratyush - https://github.com/pratyush4932                                     /
 / 2. Ahmii - https://github.com/Ahmii-kun                                           /               
@@ -31,26 +31,27 @@
 
 
 /* ---Added Anime Character list---  /
- 0 --- Atlas MD
- 1 --- Power
- 2 --- Makima
- 3 --- Denji
- 4 --- Zero Two
- 5 --- Chika
- 6 --- Miku
- 7 --- Marin Kitagawa
- 8 --- Ayanokoji
- 9 --- Ruka
-10 --- Mizuhara
-11 --- Rem
-12 --- Sumi
-13 --- Kaguya
-14 --- Yumeko
-15 --- Kurumi
-16 --- Mai
-17 --- Yor
-18 --- Shinbou
-19 --- Eiko
+ 0 --- Blaze
+ 1 --- Monkey D. Luffy 
+ 2 --- Roronoa Zoro 
+ 3 --- Nami
+ 4 --- Ussop 
+ 5 --- Sanji
+ 6 --- Tony Tony Chopper
+ 7 --- Nico Robin
+ 8 --- Franky
+ 9 --- Brook
+10 --- Trafalgar Law
+11 --- Jinbe
+12 --- Portgas D. Ace
+13 --- Sabo
+14 --- Shanks
+15 --- Whitebeard
+16 --- Monkey D. Garp
+17 --- Monkey D. Dragon
+18 --- Boa Hancock
+19 --- Dracule Mihawk
+20 --- Buggy
 
 Image Source: https://wall.alphacoders.com/
 Image Source: https://wallpapercave.com/
@@ -65,7 +66,7 @@ Don't forget to change "charlist.js" and "setchar.js" inside "Plugins\moderator.
 
 
 global.charID0 = {
-    botName : "Atlas",
+    botName : "Blaze",
     botVideo : "https://graph.org/file/e3b2ee218b98b8679bf98.mp4",
     botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
     botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
