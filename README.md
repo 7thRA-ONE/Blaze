@@ -630,5 +630,5 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 Owner of Blaze | Ideas, Testing, Co-developer|
 <a href="https://github.com/Riqo-o"><img src="https://github.com/Riqo-o.png?size=100" width="100" height="100">
 -|-
-[Rishi](https://github.com/Rl1ys)
+[Riqo](https://github.com/Riqo-o)
 Ideas, Testing, Learner |
