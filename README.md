@@ -631,4 +631,4 @@ Owner of Blaze | Ideas, Testing, Co-developer|
 <a href="https://github.com/Rl1ys"><img src="https://github.com/Rl1ys.png?size=100" width="100" height="100">
 -|-
 [Rishi](https://github.com/Rl1ys)
-Useless worker |
+Ideas, Testing, Learner |
