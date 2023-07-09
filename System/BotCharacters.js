@@ -59,9 +59,9 @@ global.charID0 = {
     botImage1 : "https://images2.alphacoders.com/130/1303476.jpeg",
     botImage2 : "https://images7.alphacoders.com/957/957169.png",
     botImage3 : "https://images5.alphacoders.com/130/1308151.jpeg",
-    botImage4 : "",
-    botImage5 : "",
-    botImage6 : "",
+    botImage4 : "https://images7.alphacoders.com/728/728185.png",
+    botImage5 : "https://images3.alphacoders.com/123/123037.jpg",
+    botImage6 : "https://images5.alphacoders.com/605/605588.jpg",
 }
 
 global.charID1 = {
@@ -81,9 +81,9 @@ global.charID2 = {
   botImage1 : "https://images6.alphacoders.com/130/1300214.jpg",
   botImage2 : "https://images7.alphacoders.com/131/1316456.png",
   botImage3 : "https://images7.alphacoders.com/124/1248740.jpg",
-  botImage4 : "",
-  botImage5 : "",
-  botImage6 : "https://images3.alphacoders.com/131/1313891.png",
+  botImage4 : "https://images.alphacoders.com/790/790626.jpg",
+  botImage5 : "https://images8.alphacoders.com/126/1263643.jpg",
+  botImage6 : "",
 }
 
 global.charID3 = {
@@ -111,12 +111,12 @@ global.charID4 = {
 global.charID5 = {
   botName : "Sanji",
   botVideo : "",
-  botImage1 : "",
-  botImage2 : "",
-  botImage3 : "",
-  botImage4 : "",
-  botImage5 : "",
-  botImage6 : "",
+  botImage1 : "https://images2.alphacoders.com/129/1298173.jpg",
+  botImage2 : "https://images2.alphacoders.com/129/1298174.jpg",
+  botImage3 : "https://images7.alphacoders.com/127/1275009.jpg",
+  botImage4 : "https://images2.alphacoders.com/737/737143.png",
+  botImage5 : "https://images7.alphacoders.com/127/1270113.jpg",
+  botImage6 : "https://images6.alphacoders.com/727/727981.jpg",
 }
 
 global.charID6 = {
@@ -191,7 +191,7 @@ global.charID11 = {
 global.charID12 = {
   botName : "Ace",
   botVideo : "",
-  botImage1 : "",
+  botImage1 : "https://images.alphacoders.com/846/84631.jpg",
   botImage2 : "",
   botImage3 : "",
   botImage4 : "",
@@ -293,10 +293,10 @@ global.charID20 = {
 global.charID21 = {
   botName : "Roger",
   botVideo : "",
-  botImage1 : "",
-  botImage2 : "",
-  botImage3 : "",
-  botImage4 : "",
-  botImage5 : "",
-  botImage6 : "",
+  botImage1 : "https://images6.alphacoders.com/127/1276438.jpg",
+  botImage2 : "https://images4.alphacoders.com/106/1060187.jpg",
+  botImage3 : "https://images4.alphacoders.com/117/1171340.jpg",
+  botImage4 : "https://images4.alphacoders.com/105/1054566.jpg",
+  botImage5 : "https://images6.alphacoders.com/641/641995.jpg",
+  botImage6 : "https://images.alphacoders.com/128/1280625.jpg",
 }
