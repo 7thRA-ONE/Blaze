@@ -1,14 +1,4 @@
-/* ---------------------------------------------------------------------------------/
-/                                                                                   /
-/             d8888 888    888                        888b     d888 8888888b.       /
-/            d88888 888    888                        8888b   d8888 888  "Y88b      /
-/           d88P888 888    888                        88888b.d88888 888    888      /
-/          d88P 888 888888 888  8888b.  .d8888b       888Y88888P888 888    888      /
-/         d88P  888 888    888     "88b 88K           888 Y888P 888 888    888      /
-/        d88P   888 888    888 .d888888 "Y8888b.      888  Y8P  888 888    888      /
-/       d8888888888 Y88b.  888 888  888      X88      888   "   888 888  .d88P      /
-/      d88P     888  "Y888 888 "Y888888  88888P'      888       888 8888888P"       /
-/                                                                                   / 
+/* ---------------------------------------------------------------------------------/                                                                                   / 
 /-----------------------------------------------------------------------------------/
 / Author and Main Developer: Hridoy                                                 /
 / Github: https://github.com/Hridoy0016/Blaze                                     /
@@ -49,6 +39,7 @@
 18 --- Boa Hancock
 19 --- Dracule Mihawk
 20 --- Buggy
+21 --- Gol D. Roger
 
 Image Source: https://wall.alphacoders.com/
 Image Source: https://wallpapercave.com/
@@ -298,3 +289,14 @@ global.charID20 = {
   botImage5 : "",
   botImage6 : "",
  }
+
+global.charID21 = {
+  botName : "Roger",
+  botVideo : "",
+  botImage1 : "",
+  botImage2 : "",
+  botImage3 : "",
+  botImage4 : "",
+  botImage5 : "",
+  botImage6 : "",
+}
