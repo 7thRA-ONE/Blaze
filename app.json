@@ -1,6 +1,6 @@
 {
   "name": "Blaze",
-  "description": "The future of WhatsApp bots now with plugin support.",
+  "description": "One piece themed full fledged multi device whatsapp bot with cool features.",
   "keywords": [
     "bot",
     "whatsapp",
@@ -16,7 +16,7 @@
   ],
   "website": "https://github.com/Hridoy0016/Blaze#readme",
   "repository": "https://github.com/Hridoy001/Blaze.git",
-  "logo": "https://graph.org/file/02abf0fd8fc2a13cc67a1.jpg",
+  "logo": "https://images7.alphacoders.com/728/728185.png",
   "success_url": "/",
   "env": {
     "PREFIX": {
