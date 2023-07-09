@@ -425,6 +425,12 @@ module.exports = {
           "Roger",
         ];
         const botLogos = [
+          "https://images5.alphacoders.com/605/605588.jpg",
+          "https://images8.alphacoders.com/131/1312181.jpg",
+          "https://images8.alphacoders.com/126/1263643.jpg",
+          "https://images6.alphacoders.com/127/1275022.png",
+          "",
+          "https://images2.alphacoders.com/737/737143.png",
           "",
           "",
           "",
@@ -439,13 +445,7 @@ module.exports = {
           "",
           "",
           "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
+          "https://images6.alphacoders.com/127/1276438.jpg",
         ];
 
         checkChar = await getChar();
